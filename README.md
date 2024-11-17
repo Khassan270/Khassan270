@@ -59,7 +59,5 @@
 
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/khassan270/khassan270/output/snake.svg" alt="Snake animation" />
 
